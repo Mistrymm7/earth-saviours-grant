@@ -17,3 +17,4 @@
 * Subgraph
 * Figment : Graph-Hack-MM, Email : mayurmmistry7@gmail.com
 * Near Aurora
+* Subgraph Hosted Service : thegraph.com/hosted-service/mistrymm7/testpolygon
